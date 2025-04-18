@@ -21,7 +21,6 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
 
 ## Features
 - Data Cleaning and Transformation:
-- 
 ◦ Handling missing values.
 ◦ Dropping unnecessary columns.
 ◦ Converting dates to appropriate datetime formats.
