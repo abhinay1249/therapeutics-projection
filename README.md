@@ -20,11 +20,11 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
 - Visualizing top-selling medicines for each month.
 
 ## Features
-- Data Cleaning and Transformation:
+- **...**Data Cleaning and Transformation:
    
-◦ Handling missing values.  
-◦ Dropping unnecessary columns.  
-◦ Converting dates to appropriate datetime formats.
+&nbsp;&nbsp;◦ Handling missing values.  
+&nbsp;&nbsp;◦ Dropping unnecessary columns.  
+&nbsp;&nbsp;◦ Converting dates to appropriate datetime formats.
 
 - Exploratory Data Analysis:
     
