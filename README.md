@@ -14,7 +14,49 @@ A machine learning project aimed at predicting therapeutic sales for future proj
 ## Overview
 This project focuses on analyzing and predicting sales data of therapeutics. The workflow includes:
 
-Data cleaning and preprocessing.
-Exploratory Data Analysis (EDA) to visualize trends.
-Grouping and summarizing sales by month and year.
-Visualizing top-selling medicines for each month.
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA) to visualize trends.
+- Grouping and summarizing sales by month and year.
+- Visualizing top-selling medicines for each month.
+
+## Features
+- Data Cleaning and Transformation:
+Handling missing values.
+Dropping unnecessary columns.
+Converting dates to appropriate datetime formats.
+-Exploratory Data Analysis:
+Visualization of null values using heatmaps.
+Understanding sales trends over time.
+-Sales Insights:
+Identification of top-selling products by month and year.
+Grouped analysis of sales data.
+-Data Visualization:
+Graphical representation of sales trends and top-selling items.
+Dataset
+The dataset consists of therapeutic sales data with the following columns:
+
+SALE_INVOICE_NO, ITEM_NAME, ITEM_CODE, ITEM_BATCH, ITEM_SALE_PRICE, QTY_IN_UNITS, TOTAL_COST, INVOICE_DATE, and more.
+Includes sales, inventory, and transactional details.
+Workflow
+The notebook follows a systematic workflow:
+
+Import Libraries: Load essential Python libraries like pandas, numpy, matplotlib, and seaborn.
+Load Data: Read the dataset from an Excel file.
+Data Cleaning:
+Drop unnecessary columns.
+Handle missing values.
+Convert date columns to proper datetime formats.
+EDA:
+Check and visualize null values.
+Summarize data using value_counts and group by operations.
+Data Transformation:
+Extract year and month from dates.
+Aggregate sales data by grouping.
+Visualization:
+Plot trends for top-selling items by month and year.
+Technologies Used
+Programming Language: Python
+Libraries:
+Data Handling: pandas, numpy
+Visualization: matplotlib, seaborn
+Datetime Processing: datetime, calendar
