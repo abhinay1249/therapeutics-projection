@@ -50,22 +50,28 @@ The dataset consists of therapeutic sales data with the following columns:
 The notebook follows a systematic workflow:
 
 **1. Import Libraries:** Load essential Python libraries like pandas, numpy, matplotlib, and seaborn.  
+
 **2. Load Data:** Read the dataset from an Excel file.  
+
 **3. Data Cleaning:**  
      ◦ Drop unnecessary columns.  
      ◦ Handle missing values.  
      ◦ Convert date columns to proper datetime formats.  
+     
 **4. EDA:**  
      ◦ Check and visualize null values.  
-     ◦ Summarize data using value_counts and group by operations.  
+     ◦ Summarize data using value_counts and group by operations.
+     
 **5. Data Transformation:**  
      ◦ Extract year and month from dates.  
      ◦ Aggregate sales data by grouping.  
+     
 **6. Visualization:**   
      ◦ Plot trends for top-selling items by month and year.  
+     
 ## Technologies Used
-Programming Language: Python
-Libraries:
-Data Handling: pandas, numpy
-Visualization: matplotlib, seaborn
-Datetime Processing: datetime, calendar
+- **Programming Language:** Python
+- **Libraries:**
+**Data Handling:** pandas, numpy
+**Visualization:** matplotlib, seaborn
+**Datetime Processing:** datetime, calendar
