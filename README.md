@@ -73,5 +73,14 @@ The notebook follows a systematic workflow:
 - **Programming Language:** Python
 - **Libraries:**  
     ◦ **Data Handling:** pandas, numpy  
-    ◦ **Data Visualization:** matplotlib, seaborn, exploratory data analysis(EDA)  
-    ◦ **Datetime Processing:** datetime, calendar  
+    ◦ **Data Visualization:** matplotlib, seaborn, exploratory data analysis (EDA)  
+    ◦ **Datetime Processing:** datetime, calendar
+
+## Usage
+**1. Clone the repository:**  
+   ```git clone https://github.com/abhinay1249/therapeutics-projection.git```
+**2. Install required Python libraries:**  
+    ```pip install pandas numpy matplotlib seaborn```  
+**3. Open and execute the Project.ipynb notebook:**  
+    ◦ Load the dataset by specifying the correct path.  
+    ◦ Follow the notebook steps to preprocess and analyze the data.  
