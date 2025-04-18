@@ -85,21 +85,21 @@ The notebook follows a systematic workflow:
 **2. Install required Python libraries:**  
 
     pip install pandas numpy matplotlib seaborn
+    
+**3. Open and execute the Project.ipynb notebook:**   
+        ◦ Load the dataset by specifying the correct path.  
+        ◦ Follow the notebook steps to preprocess and analyze the data.  
 
-**3. Open and execute the Project.ipynb notebook:**  
-         ◦ Load the dataset by specifying the correct path.  
-         ◦ Follow the notebook steps to preprocess and analyze the data.
-
-### Results
+## Results
 - Identified top-selling items for each month and year.
 - Visualized trends in therapeutic sales.
 - Provided insights into high-demand products.
-Future Work
-Enhance the predictive capability using advanced machine learning models.
-Incorporate external data sources for more robust sales forecasting.
-Automate the pipeline for real-time data analysis.
-Author
-This project was developed by abhinay1249.
+## Future Work
+- Enhance the predictive capability using advanced machine learning models.
+- Incorporate external data sources for more robust sales forecasting.
+- Automate the pipeline for real-time data analysis.
+## Author
+This project was developed by [abhinay1249](https://github.com/abhinay1249).
 
 
 
