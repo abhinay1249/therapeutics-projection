@@ -49,7 +49,7 @@ The dataset consists of therapeutic sales data with the following columns:
 ## Workflow
 The notebook follows a systematic workflow:
 
-1.Import Libraries: Load essential Python libraries like pandas, numpy, matplotlib, and seaborn.
+1.&nbsp;Import Libraries: Load essential Python libraries like pandas, numpy, matplotlib, and seaborn.
 2. Load Data: Read the dataset from an Excel file.
 3. Data Cleaning:
    ◦ Drop unnecessary columns.
