@@ -19,7 +19,7 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
 - Grouping and summarizing sales by month and year.
 - Visualizing top-selling medicines for each month.
 
-## Features
+## Features  
 - #### Data Cleaning and Transformation:
    
 ◦ Handling missing values.  
