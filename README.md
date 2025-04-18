@@ -81,9 +81,19 @@ The notebook follows a systematic workflow:
    ``` git clone https://github.com/abhinay1249/therapeutics-projection.git ```
 
 **2. Install required Python libraries:**  
-    ```bash
-      pip install pandas numpy matplotlib seaborn 
+    ``` pip install pandas numpy matplotlib seaborn ```
     
 **3. Open and execute the Project.ipynb notebook:**  
     ◦ Load the dataset by specifying the correct path.  
     ◦ Follow the notebook steps to preprocess and analyze the data.  
+
+
+    ```markdown
+**📌 Key Features**  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Data cleaning and preprocessing  
+&nbsp;&nbsp;&nbsp;&nbsp;2. Feature engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Model training (Linear Regression, Random Forest)  
+&nbsp;&nbsp;&nbsp;&nbsp;4. Evaluation using MAE, RMSE  
+&nbsp;&nbsp;&nbsp;&nbsp;5. Visualizations with Matplotlib & Seaborn  
+```
+
