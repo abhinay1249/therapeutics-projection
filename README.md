@@ -78,11 +78,14 @@ The notebook follows a systematic workflow:
 
 ## Usage  
 **1. Clone the repository:**  
-   ```git clone https://github.com/abhinay1249/therapeutics-projection.git ```
+   ```
+   git clone https://github.com/abhinay1249/therapeutics-projection.git
+   ```
 
 **2. Install required Python libraries:**  
     ``` 
-    pip install pandas numpy matplotlib seaborn ```
+    pip install pandas numpy matplotlib seaborn 
+    ```
     
 **3. Open and execute the Project.ipynb notebook:**  
     ◦ Load the dataset by specifying the correct path.  
