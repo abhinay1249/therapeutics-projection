@@ -24,15 +24,15 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
 ◦ Handling missing values.
 ◦ Dropping unnecessary columns.
 ◦ Converting dates to appropriate datetime formats.
--Exploratory Data Analysis:
+- Exploratory Data Analysis:
 
 ◦ Visualization of null values using heatmaps.
 ◦ Understanding sales trends over time.
--Sales Insights:
+- Sales Insights:
 
 ◦ Identification of top-selling products by month and year.
 ◦ Grouped analysis of sales data.
--Data Visualization:
+- Data Visualization:
 
 ◦ Graphical representation of sales trends and top-selling items.
 Dataset
