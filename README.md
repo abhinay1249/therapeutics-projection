@@ -102,5 +102,7 @@ The notebook follows a systematic workflow:
 ## Author
 This project was developed by [abhinay1249](https://github.com/abhinay1249).
 
-
-
+## Contact
+Feel free to connect for feedback or collaboration.  
+ - abhinaymarise@gmail.com
+ - [LinkedIn](https://www.linkedin.com/in/abhinay-marise-34b648273/)
