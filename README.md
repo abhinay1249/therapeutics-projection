@@ -34,18 +34,19 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
   
 - #### Sales Insights:
     
-◦ Identification of top-selling products by month and year.  
-◦ Grouped analysis of sales data.
+  ◦ Identification of top-selling products by month and year.  
+  ◦ Grouped analysis of sales data.
 
 - #### Data Visualization:
     
-◦ Graphical representation of sales trends and top-selling items.  
-Dataset
+  ◦ Graphical representation of sales trends and top-selling items.  
+## Dataset
 The dataset consists of therapeutic sales data with the following columns:
 
-SALE_INVOICE_NO, ITEM_NAME, ITEM_CODE, ITEM_BATCH, ITEM_SALE_PRICE, QTY_IN_UNITS, TOTAL_COST, INVOICE_DATE, and more.
-Includes sales, inventory, and transactional details.
-Workflow
+- SALE_INVOICE_NO, ITEM_NAME, ITEM_CODE, ITEM_BATCH, ITEM_SALE_PRICE, QTY_IN_UNITS, TOTAL_COST, INVOICE_DATE, and more.
+- Includes sales, inventory, and transactional details.
+ 
+## Workflow
 The notebook follows a systematic workflow:
 
 Import Libraries: Load essential Python libraries like pandas, numpy, matplotlib, and seaborn.
