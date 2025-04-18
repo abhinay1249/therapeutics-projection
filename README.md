@@ -21,20 +21,20 @@ This project focuses on analyzing and predicting sales data of therapeutics. The
 
 ## Features
 - Data Cleaning and Transformation:
-◦ Handling missing values.
-◦ Dropping unnecessary columns.
-◦ Converting dates to appropriate datetime formats.
+◦ Handling missing values.  
+◦ Dropping unnecessary columns.  
+◦ Converting dates to appropriate datetime formats.  
 - Exploratory Data Analysis:
 
-◦ Visualization of null values using heatmaps.
-◦ Understanding sales trends over time.
+◦ Visualization of null values using heatmaps.  
+◦ Understanding sales trends over time.  
 - Sales Insights:
 
-◦ Identification of top-selling products by month and year.
-◦ Grouped analysis of sales data.
+◦ Identification of top-selling products by month and year.  
+◦ Grouped analysis of sales data.  
 - Data Visualization:
 
-◦ Graphical representation of sales trends and top-selling items.
+◦ Graphical representation of sales trends and top-selling items.  
 Dataset
 The dataset consists of therapeutic sales data with the following columns:
 
