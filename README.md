@@ -2,14 +2,15 @@
 A machine learning project aimed at predicting therapeutic sales for future projections using machine learning models. The project processes, analyzes, and visualizes sales data to uncover trends and insights, enabling better decision-making in the healthcare and pharmaceutical industries.
 
 ## Table of Contents
-- Overview
-- Features
-- Dataset
-- Workflow
-- Technologies Used
-- Usage
-- Results
-- Future Work
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Dataset](#dataset)
+4. [Workflow](#workflow)
+5. [Technologies Used](#technologies-used)
+6. [Usage](#usage)
+7. [Results](#results)
+8. [Future Work](#future-work)
+9. [Author](#author)
 
 ## Overview
 This project focuses on analyzing and predicting sales data of therapeutics. The workflow includes:
