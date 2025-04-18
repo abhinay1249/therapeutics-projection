@@ -72,6 +72,6 @@ The notebook follows a systematic workflow:
 ## Technologies Used
 - **Programming Language:** Python
 - **Libraries:**
-**Data Handling:** pandas, numpy
-**Visualization:** matplotlib, seaborn
-**Datetime Processing:** datetime, calendar
+**Data Handling:** pandas, numpy  
+**Visualization:** matplotlib, seaborn  
+**Datetime Processing:** datetime, calendar  
